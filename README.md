@@ -1,5 +1,5 @@
 # Unifying-algorithms-for-multi-step-reinforcement-learning
-A state-dependent extension to Q(&sigma;) algorithm
+A state-dependent version of the Q(&sigma;) algorithm
 
 We perform some numerical experiments with the Q(&sigma;) algorithm from De Asis et al.(2018), "Multi-step reinforcement learning: A unifying
 algorithm" (https://arxiv.org/abs/1703.01327). The state-dependent version for the dynamics of the degree of sampling is studied. 
